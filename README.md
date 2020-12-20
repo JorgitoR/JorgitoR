@@ -1,8 +1,8 @@
-### Hola, Soy Jorgito -  Tambien conocido como Jorgito Code
+### Hola, Soy Jorgito -  Me encuentras en YouTube como Jorgito Code
 
-## Soy Cristiano, Hijo, Desarrollador and amante del aprendizaje
+## Soy Cristiano, Desarrollador and amante del aprendizaje
 
-- 🔭 Acabo de lanzar mi primer curso: Become A VS Code SuperHero!!
+- 🔭 Acabo de lanzar mi primer curso: Django con Ajax!
 - 🌱 Actualmente estoy aprendiendo todo 🤣
 - 👯 Busco colaborar con otros creadores de contenido
 - 🥅 Objetivos 2020: Contribuir mas a los proyectos de codigo abierto
