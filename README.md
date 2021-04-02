@@ -1,12 +1,11 @@
 ### Hola, Soy Jorgito -  Me encuentras en YouTube como Jorgito Code
 
-## Soy Cristiano, Desarrollador and amante del aprendizaje
 
-- 🔭 Acabo de lanzar mi primer curso: Django con Ajax!
+- 🔭 Acabo de lanzar mi primer curso: Crear una App de Quiz con Django!
 - 🌱 Actualmente estoy aprendiendo todo 🤣
 - 👯 Busco colaborar con otros creadores de contenido
-- 🥅 Objetivos 2020: Contribuir mas a los proyectos de codigo abierto
-- ⚡ Diversion, Hobbie: Me encanta el ciclismo, tocar la guitarra / piano, Amo el piano
+- 🥅 Objetivos 2021: Contribuir mas a los proyectos de codigo abierto
+- ⚡ Diversion, Hobbie: Me encanta el ciclismo, tocar la guitarra / piano.
 
 ### Conectate con migo:
 
