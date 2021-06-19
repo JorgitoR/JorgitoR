@@ -1,4 +1,4 @@
-### Hola, Soy Jorgito -  Me encuentras en YouTube como Jorgito Code
+### Hola, Soy Jorgito -  Me encuentras en YouTube como Dev Django
 
 
 - 🔭 Acabo de lanzar mi primer curso: Crear una App de Quiz con Django!
